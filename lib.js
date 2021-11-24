@@ -15,5 +15,5 @@ function isDataEmpty (data) {
 
 // test string format
 // const str = 'hello world!';
-// const result = /^hello/.test(str); //if(str == null), no excepion
+// const result = /^hello/.test(str); //if(str == null), no exception
 // console.log(result); // true
